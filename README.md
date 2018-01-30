@@ -5,3 +5,4 @@
 This is a paragraph
 
 This links to [Google](http://google.com)
+<a href="http://google.com">Google</a>
