@@ -4,4 +4,4 @@
 
 This is a paragraph
 
-http://google.com
+This links to [Google](http://google.com)
